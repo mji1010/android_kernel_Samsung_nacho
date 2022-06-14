@@ -381,7 +381,7 @@ LD		= $(CROSS_COMPILE)ld
 
 # CC=/home/grahame/toolchains/proton-clang-13-clang/bin/clang
 
-CC= /home/mmourtazik8/halium/out/partitions/linux-x86/clang-r353983c/bin/clang
+CC= /home/mmourtazik8/halium/out/downloads/linux-x86/clang-r353983c/bin/clang
 
 
 CPP		= $(CC) -E
